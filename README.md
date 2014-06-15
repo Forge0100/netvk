@@ -1,4 +1,3 @@
-Привет, всем. Это мой первый проект в виде OpenSource. Так что будем ознакамливаться :)
+My first OpenSource project!
 =====
-
 NetVK
